@@ -1,0 +1,79 @@
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+}
+
+.head2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.fyre{
+    justify-self: center;
+}
+
+.fire{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    max-height: 3000px;
+    background: #000;
+    opacity: 0.8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    max-height: 3000px;
+    background: #000;
+    opacity: 0.8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title{
+    color: white;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.search-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 30px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+.butter{
+    width: 42px;
+    height: 15px;
+}
+
+.butter2{
+    width: 53px;
+    height: 15px;
+}
